@@ -1,0 +1,28 @@
+body {
+    background-color: pink;
+}
+img {
+    width: 200px;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Monaco", serif;
+    color: white;
+}
+
+h4 {
+    color: white;
+    font-family: "Brush Script MT", cursive;
+    font-size: large;
+}
+
+.fillings {
+    color: aqua;
+}
+
+ol {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: purple;
+}

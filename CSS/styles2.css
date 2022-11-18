@@ -1,0 +1,36 @@
+
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+.para {
+    background-color: aquamarine;
+}
+
+.para.subhead {
+    font-weight: bold;
+    color: green;
+}
+
+.para#identity {
+    color:pink;
+}
+
+.rand1,
+.rand2 {
+    color:purple;
+}
+
+.rand1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.rand2 {
+    font-family: fantasy;
+}
+
+ol li {
+    color: brown;
+} 

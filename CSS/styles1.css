@@ -1,0 +1,35 @@
+
+
+h1 {
+    text-align: center;
+    background-color: blue;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h4 {
+    color: aqua;
+    background-color: purple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul {
+    color: green;
+}
+
+.cl {
+    color: pink;
+    font-weight: bold;
+    font-family: 'copperplate', fantasy;
+}
+
+#identity {
+    color: red;
+    font-family: 'papyrus';
+}
+
