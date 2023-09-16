@@ -3,10 +3,22 @@
 .heading {
     background-color: powderblue;
     text-align: center;
+    padding:10px;
+    margin: 10px;
 }
 
 body {
+    text-align: center;
     font-family: "Brush Script MT", sans-serif;
     color: white;
     background-color: pink;
+}
+
+ul {
+    list-style: none;
+    font-size: 3em;
+    border: aqua solid 2px;
+    border-radius: 30px;
+    margin: 10px;
+
 }
